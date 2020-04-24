@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 
 
 driver = webdriver.Chrome()
-driver.get("https://web01.hbo238.com/")
+driver.get("https://XXX/")
 
 
 driver.find_element_by_class_name('popup-close').click()
